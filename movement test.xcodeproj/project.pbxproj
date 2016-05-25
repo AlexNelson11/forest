@@ -14,6 +14,16 @@
 		FA215FB81CEC4C2C00C0794B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA215FB61CEC4C2C00C0794B /* LaunchScreen.storyboard */; };
 		FA215FC31CEC4C2C00C0794B /* movement_testTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA215FC21CEC4C2C00C0794B /* movement_testTests.swift */; };
 		FA215FCE1CEC4C2C00C0794B /* movement_testUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA215FCD1CEC4C2C00C0794B /* movement_testUITests.swift */; };
+		FA215FE21CEC541700C0794B /* arrow foreward.png in Resources */ = {isa = PBXBuildFile; fileRef = FA215FE11CEC541700C0794B /* arrow foreward.png */; };
+		FA215FE41CEC55DB00C0794B /* arrow left.png in Resources */ = {isa = PBXBuildFile; fileRef = FA215FE31CEC55DB00C0794B /* arrow left.png */; };
+		FA215FE61CEC560B00C0794B /* arrow back.png in Resources */ = {isa = PBXBuildFile; fileRef = FA215FE51CEC560B00C0794B /* arrow back.png */; };
+		FA215FE81CEC562400C0794B /* arrow right.png in Resources */ = {isa = PBXBuildFile; fileRef = FA215FE71CEC562400C0794B /* arrow right.png */; };
+		FA215FEA1CEC59AD00C0794B /* creatureDown.png in Resources */ = {isa = PBXBuildFile; fileRef = FA215FE91CEC59AD00C0794B /* creatureDown.png */; };
+		FA215FEC1CEC59D100C0794B /* creatureRight.png in Resources */ = {isa = PBXBuildFile; fileRef = FA215FEB1CEC59D100C0794B /* creatureRight.png */; };
+		FA215FEE1CEC59E500C0794B /* creatureUp.png in Resources */ = {isa = PBXBuildFile; fileRef = FA215FED1CEC59E500C0794B /* creatureUp.png */; };
+		FA215FF01CEC59FB00C0794B /* creatureLeft.png in Resources */ = {isa = PBXBuildFile; fileRef = FA215FEF1CEC59FB00C0794B /* creatureLeft.png */; };
+		FA215FF21CEC5EE800C0794B /* tree.png in Resources */ = {isa = PBXBuildFile; fileRef = FA215FF11CEC5EE800C0794B /* tree.png */; };
+		FAFC80FA1CF595BF005752E9 /* stone.png in Resources */ = {isa = PBXBuildFile; fileRef = FAFC80F91CF595BE005752E9 /* stone.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +57,16 @@
 		FA215FC91CEC4C2C00C0794B /* movement testUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "movement testUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA215FCD1CEC4C2C00C0794B /* movement_testUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = movement_testUITests.swift; sourceTree = "<group>"; };
 		FA215FCF1CEC4C2C00C0794B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA215FE11CEC541700C0794B /* arrow foreward.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow foreward.png"; sourceTree = "<group>"; };
+		FA215FE31CEC55DB00C0794B /* arrow left.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow left.png"; sourceTree = "<group>"; };
+		FA215FE51CEC560B00C0794B /* arrow back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow back.png"; sourceTree = "<group>"; };
+		FA215FE71CEC562400C0794B /* arrow right.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow right.png"; sourceTree = "<group>"; };
+		FA215FE91CEC59AD00C0794B /* creatureDown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = creatureDown.png; sourceTree = "<group>"; };
+		FA215FEB1CEC59D100C0794B /* creatureRight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = creatureRight.png; sourceTree = "<group>"; };
+		FA215FED1CEC59E500C0794B /* creatureUp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = creatureUp.png; sourceTree = "<group>"; };
+		FA215FEF1CEC59FB00C0794B /* creatureLeft.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = creatureLeft.png; sourceTree = "<group>"; };
+		FA215FF11CEC5EE800C0794B /* tree.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tree.png; sourceTree = "<group>"; };
+		FAFC80F91CF595BE005752E9 /* stone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stone.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +121,16 @@
 				FA215FAF1CEC4C2C00C0794B /* ViewController.swift */,
 				FA215FB11CEC4C2C00C0794B /* Main.storyboard */,
 				FA215FB41CEC4C2C00C0794B /* Assets.xcassets */,
+				FA215FE11CEC541700C0794B /* arrow foreward.png */,
+				FA215FE31CEC55DB00C0794B /* arrow left.png */,
+				FA215FE51CEC560B00C0794B /* arrow back.png */,
+				FA215FE71CEC562400C0794B /* arrow right.png */,
+				FA215FE91CEC59AD00C0794B /* creatureDown.png */,
+				FA215FEB1CEC59D100C0794B /* creatureRight.png */,
+				FA215FED1CEC59E500C0794B /* creatureUp.png */,
+				FA215FEF1CEC59FB00C0794B /* creatureLeft.png */,
+				FA215FF11CEC5EE800C0794B /* tree.png */,
+				FAFC80F91CF595BE005752E9 /* stone.png */,
 				FA215FB61CEC4C2C00C0794B /* LaunchScreen.storyboard */,
 				FA215FB91CEC4C2C00C0794B /* Info.plist */,
 			);
@@ -230,8 +260,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA215FB81CEC4C2C00C0794B /* LaunchScreen.storyboard in Resources */,
+				FA215FE61CEC560B00C0794B /* arrow back.png in Resources */,
+				FA215FE81CEC562400C0794B /* arrow right.png in Resources */,
+				FA215FEE1CEC59E500C0794B /* creatureUp.png in Resources */,
+				FA215FF01CEC59FB00C0794B /* creatureLeft.png in Resources */,
 				FA215FB51CEC4C2C00C0794B /* Assets.xcassets in Resources */,
+				FA215FE21CEC541700C0794B /* arrow foreward.png in Resources */,
+				FA215FE41CEC55DB00C0794B /* arrow left.png in Resources */,
+				FAFC80FA1CF595BF005752E9 /* stone.png in Resources */,
+				FA215FEA1CEC59AD00C0794B /* creatureDown.png in Resources */,
+				FA215FEC1CEC59D100C0794B /* creatureRight.png in Resources */,
 				FA215FB31CEC4C2C00C0794B /* Main.storyboard in Resources */,
+				FA215FF21CEC5EE800C0794B /* tree.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -482,6 +522,7 @@
 				FA215FD41CEC4C2C00C0794B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FA215FD51CEC4C2C00C0794B /* Build configuration list for PBXNativeTarget "movement testTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +531,7 @@
 				FA215FD71CEC4C2C00C0794B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FA215FD81CEC4C2C00C0794B /* Build configuration list for PBXNativeTarget "movement testUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +540,7 @@
 				FA215FDA1CEC4C2C00C0794B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
